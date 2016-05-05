@@ -1,0 +1,8 @@
+C:\Download\lab\mvs2010\TestTemplateVelocity\TestTemplateVelocity\bin\Debug\TestTemplateVelocity.exe
+C:\Download\lab\mvs2010\TestTemplateVelocity\TestTemplateVelocity\bin\Debug\TestTemplateVelocity.pdb
+C:\Download\lab\mvs2010\TestTemplateVelocity\TestTemplateVelocity\bin\Debug\NVelocity.dll
+C:\Download\lab\mvs2010\TestTemplateVelocity\TestTemplateVelocity\bin\Debug\NVelocity.pdb
+C:\Download\lab\mvs2010\TestTemplateVelocity\TestTemplateVelocity\bin\Debug\NVelocity.xml
+C:\Download\lab\mvs2010\TestTemplateVelocity\TestTemplateVelocity\obj\x86\Debug\TestTemplateVelocity.csprojResolveAssemblyReference.cache
+C:\Download\lab\mvs2010\TestTemplateVelocity\TestTemplateVelocity\obj\x86\Debug\TestTemplateVelocity.exe
+C:\Download\lab\mvs2010\TestTemplateVelocity\TestTemplateVelocity\obj\x86\Debug\TestTemplateVelocity.pdb
